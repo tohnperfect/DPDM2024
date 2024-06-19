@@ -4,6 +4,6 @@
 | Parts | Percentage |
 | ----------- | ----------- |
 | Research Project | 25% |
-| Programming Assignment | 40% |
-| Midterm Exam | 15% |
+| Programming Assignment | 30% |
+| Midterm Exam | 25% |
 | Final Exam | 20% |
